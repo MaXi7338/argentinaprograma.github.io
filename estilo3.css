@@ -1,0 +1,47 @@
+header
+{width: 100%;
+    height: 400px;
+}
+
+body
+{background-image: url(fondoexperiencia.jpg) ;}
+h1
+{text-align: center;
+color: rgb(10, 10, 10);}
+section
+{margin: auto;}
+.primera
+{width: 60%;
+height: 250px;
+background-color: tan;
+}
+.puesto
+{font-size: large;
+font-style: initial;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;}
+
+.parrafo
+{font-style: italic;
+    font-weight: bold;
+
+}
+button
+{margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+border: 2cm;
+border-color: aqua;
+text-align: center;
+width: 80px;
+height: 40px;
+background-color: transparent;
+text-align: center;
+color: rgb(10, 10, 10);
+font-size: large;
+font-style: italic;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
